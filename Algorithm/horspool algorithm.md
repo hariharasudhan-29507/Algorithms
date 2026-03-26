@@ -4,8 +4,6 @@
 
 Horspool's algorithm is a simplified version of the Boyer-Moore algorithm for string pattern matching. It preprocesses the pattern to build a shift table, then aligns the pattern against the text and compares right-to-left, using the shift table to skip characters efficiently on a mismatch.
 
-
-
 ## Algorithm: ShiftTable
 
 ShiftTable(pattern[0..m-1])
