@@ -19,13 +19,20 @@ InsertionSort(arr[0..n-1])
 //Output: arr[] sorted in non-decreasing order
 
 FOR i ← 1 TO n − 1 DO
-    key ← arr[i]
-    j ← i − 1
-    WHILE j ≥ 0 AND arr[j] > key DO
-        arr[j + 1] ← arr[j]
-        j ← j − 1
-    END WHILE
-    arr[j + 1] ← key
+&nbsp;&nbsp;&nbsp;&nbsp;key ← arr[i]
+
+&nbsp;&nbsp;&nbsp;&nbsp;j ← i − 1
+
+&nbsp;&nbsp;&nbsp;&nbsp;WHILE j ≥ 0 AND arr[j] > key DO
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arr[j + 1] ← arr[j]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j ← j − 1
+
+&nbsp;&nbsp;&nbsp;&nbsp;END WHILE
+
+&nbsp;&nbsp;&nbsp;&nbsp;arr[j + 1] ← key
+
 END FOR
 
 Return arr[]
