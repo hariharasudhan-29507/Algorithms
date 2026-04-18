@@ -30,6 +30,6 @@ g++ Implementation/quicksort.cpp -o quicksort
 ```
 
 ## Author
-- **Name:** Hariharasudhan A  
-- **Role:** Sophomore in CSE at Mepco Schlenk Engineering College  
-- **Email:** sudanayyappan_bcs28@mepcoeng.ac.in
+Hariharasudhan A  
+Sophomore in CSE at Mepco Schlenk Engineering College  
+**Reach me :** sudanayyappan_bcs28@mepcoeng.ac.in
