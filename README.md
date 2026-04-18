@@ -1,11 +1,35 @@
-# ALGORITHMS 
-This is a centralised repository for algorithms and their implementation , majorly the implementation will be done using C++ , the algorithms for respective implementations are in "Algorithms" directory with implementations in "Implementation" directory
+# Algorithms Repository
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming language : C++
+## Overview
+This repository is a centralized collection of algorithm concepts and their C++ implementations.  
+Algorithm notes are provided separately from executable implementations for clear learning and reference.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Algorithms covered :  Sorting Techniques , String Matching , Dynamic Programming
+## Repository Structure
+- `Algorithm/` – Contains algorithm descriptions and supporting documentation.
+- `Implementation/` – Contains C++ source code implementations of the algorithms.
 
-# Author 
-Hariharasudhan A
+## Language
+- C++
 
-reach me : sudanayyappan_bcs28@mepcoeng.ac.in
+## Topics Covered
+- Sorting Techniques
+- String Matching
+- Dynamic Programming
+- Graph Algorithms
+- Computational Geometry
+
+## Getting Started
+1. Open the required algorithm description from the `Algorithm/` directory.
+2. Compile the corresponding C++ file from the `Implementation/` directory.
+3. Run the executable to test the implementation.
+
+Example:
+```bash
+g++ Implementation/quicksort.cpp -o quicksort
+./quicksort
+```
+
+## Author
+- **Name:** Hariharasudhan A  
+- **Role:** Sophomore in CSE at Mepco Schlenk Engineering College  
+- **Email:** sudanayyappan_bcs28@mepcoeng.ac.in
