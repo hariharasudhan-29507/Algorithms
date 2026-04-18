@@ -12,11 +12,11 @@ Algorithm notes are provided separately from executable implementations for clea
 - C++
 
 ## Topics Covered
-- Sorting Techniques
-- String Matching
-- Dynamic Programming
-- Graph Algorithms
-- Computational Geometry
+- Sorting Techniques (Insertion Sort, Merge Sort, Quick Sort, Heap Sort)
+- String Matching (Horspool Algorithm)
+- Dynamic Programming (N-Queens)
+- Graph Algorithms (Floyd’s Algorithm)
+- Computational Geometry (Closest Pair)
 
 ## Getting Started
 1. Open the required algorithm description from the `Algorithm/` directory.
